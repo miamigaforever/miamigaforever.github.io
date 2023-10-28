@@ -1,0 +1,63 @@
+#a{
+    width: 1000px;
+    height: 120px;
+    background-color: lightcoral;
+    margin: auto;
+    font-size: 67px;
+    font-family: fantasy;
+}
+#b{
+    width: 1000px;
+    height: 100px;
+    background-color: darkgray;
+    margin: auto;
+    font-size: 60px;
+    font-family: inherit;
+}
+#c{
+    width: 1000px;
+    height: 200px;
+    background-color: darkgray;
+    margin: auto;
+    font-size: 60px;
+    font-family: inherit;
+}
+#d{
+    width: 1000px;
+    height: 100px;
+    background-color: darkgray;
+    margin: auto;
+    font-size: 60px;
+    font-family: inherit;
+}
+#e{
+    width: 1000px;
+    height: 100px;
+    background-color: darkgray;
+    margin: auto;
+    font-size: 60px;
+    font-family: inherit;
+}
+#f{
+    width: 1000px;
+    height: 100px;
+    background-color: darkgray;
+    margin: auto;
+    font-size: 60px;
+    font-family: inherit;
+}
+#g{
+    width: 1000px;
+    height: 200px;
+    background-color: darkgray;
+    margin: auto;
+    font-size: 60px;
+    font-family: inherit;
+}
+#z{
+    width: 1000px;
+    height: 600px;
+    background-color: darkgray;
+    margin: auto;
+    background-image: url(minecraft.png);
+}

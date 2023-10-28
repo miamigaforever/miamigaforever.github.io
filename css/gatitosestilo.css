@@ -1,0 +1,39 @@
+#a{
+    width: 460px;
+    height: 460px;
+    background-color: aqua;
+    margin-left: 20px;
+    background-image: url(cat04.jpg);
+}
+#b{
+    width: 460px;
+    height: 460px;
+    background-color: aqua;
+    margin-left: 480px;
+    margin-top: -460px;
+    background-image: url(cat02.jpg);
+}
+#c{
+    width: 460px;
+    height: 460px;
+    background-color: aqua;
+    margin-left: 940px;
+    margin-top: -460px;
+    background-image: url(cat03.jpg);
+}
+#d{
+    width: 430px;
+    height: 460px;
+    background-color: aqua;
+    margin-left: 1400px;
+    margin-top: -460px;
+    background-image: url(cat01.jpg);
+}
+#f{
+    width: 1810px;
+    height: 400px;
+    background-color: lightpink;
+    margin: auto;
+    font-size: 178px;
+    font-family: fantasy;
+}

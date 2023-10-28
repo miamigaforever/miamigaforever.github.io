@@ -1,0 +1,119 @@
+#lider {
+    width: 950px;
+    height: 170px;
+    background-color: papayawhip;
+    margin: auto;
+    font-size: 80px;
+    font-family: cursive;
+    text-align: center;
+}
+nav {
+    width: 950px;
+    height: 77px;
+    background-color: darkgray;
+    margin: auto;
+}
+ul{
+    padding-left: 40px;
+    padding-top: 13px;
+    margin-left: 20px;
+}
+ul li {
+    list-style-type: none;
+    float: left;
+    display: block;
+    width: 200px;
+    background-color: darkgray;
+    text-align: center;
+    font-size: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li:hover{
+    background-color: yellow;
+}
+section{
+    width: 660px;
+    height: 500px;
+    background-color: lightpink;
+    margin-left: 450px;
+}
+aside{
+    width: 280px;
+    height: 500px;
+    background-color: mediumaquamarine;
+    margin-left: 1120px;
+    margin-top: -500px;
+    border-style: inset;
+    border-color: lightpink;
+}
+#z{
+    width: 260px;
+    height: 200px;
+    margin: auto;
+    background-color: white;
+    margin-top: 30px;
+    background-image: url(camilo02.jpeg);
+}
+#a{
+    width: 620px;
+    height: 200px;
+    background-color: darkgray;
+    margin: auto;
+    font-size: 68px;
+    font-family: fantasy;
+    border-style: inset;
+    border-color: white;
+}
+#b{
+    width: 620px;
+    height: 200px;
+    background-color: darkgray;
+    margin: auto;
+    font-size: 64px;
+    font-family: fantasy;
+    border-style: inset;
+    border-color: white;
+}
+#y{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    margin-top: -750px;
+    margin-left: 20px;
+    border-style: inset;
+    border-color: lightcoral;
+    background-image: url(1302.jpg);
+}
+#x{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    margin-top: -405px;
+    margin-left: 1425px;
+    border-style: inset;
+    border-color: lightcoral;
+    background-image: url(1303.jpg);
+}
+#s{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-style: inset;
+    border-color: lightcoral;
+    background-image: url(dib01.jpg);
+}
+#m{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    margin-top: -405px;
+    margin-left: 1425px;
+    border-style: inset;
+    border-color: lightcoral;
+    background-image: url(dib02.jpg);
+}

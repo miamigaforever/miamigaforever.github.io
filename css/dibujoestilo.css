@@ -1,0 +1,26 @@
+#a{
+    width: 850px;
+    height: 1300px;
+    background-color: lightpink;
+    margin-left: 225px;
+    background-image: url(cruellafinal.jpeg);
+}
+#b{
+    width: 500px;
+    height: 1300px;
+    background-color: darkgray;
+    margin-left: 1075px;
+    margin-top: -1300px;
+    font-size: 120px;
+    font-family: fantasy;
+    border-style: inset;
+    border-color: darkred;
+}
+#t{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+    margin-top: 70px;
+    background-image: url(meme.jpeg);
+}
